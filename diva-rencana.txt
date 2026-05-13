@@ -5,5 +5,7 @@
 - Menabung untuk kebutuhan masa depan
   *hidup secara hemat
   *membeli barang seperlunya
+   ^mencatat pengeluaran setiap bulannya
+   ^merinci pengeluaran
 - Membantu dan membanggakan orang tua
 - Menjadi pribadi yang lebih mandiri dan bertanggung jawab
